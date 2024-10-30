@@ -8,3 +8,4 @@ Click the button below to start a new development environment:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ijpatricio/filament-and-daisy)
 
+Check how it works in this [2min YouTube video](https://www.youtube.com/watch?v=IZLcKZzoqW8).
